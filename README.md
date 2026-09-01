@@ -3,7 +3,8 @@
 Sistema para registrar, consultar, modificar y eliminar libros de una biblioteca.
 
 ## Integrantes
-- Luis
+- Cerda Grefa Jose Luis
+- Cerda Grefa David Samuel
 
 ## Flujo de trabajo con ramas
 - **main**: versión estable y funcional.
