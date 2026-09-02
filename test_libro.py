@@ -1,6 +1,3 @@
-import sys
-sys.path.insert(0, '.')
-
 from src.libro import registrar_libro
 
 def test_registrar_libro_datos_completos():
