@@ -12,4 +12,4 @@ jobs:
       - name: Instalar pytest
         run: pip install pytest
       - name: Ejecutar pruebas
-        run: pytest pruebas/test_libro.py -v
+        run: pytest test_libro.py -v
